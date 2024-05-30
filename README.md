@@ -18,7 +18,7 @@ This project is a C# console application that monitors the last-minute flight de
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/LastMinuteFlightDealsMonitor.git
+    git clone https://github.com/rifaterdemsahin/monitoringforairlinespoc
     cd LastMinuteFlightDealsMonitor
     ```
 
